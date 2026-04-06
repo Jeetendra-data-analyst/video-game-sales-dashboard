@@ -46,5 +46,8 @@ It provides insights into sales performance across different regions, genres, pl
 
 ---
 
-If you found this project useful or insightful, please consider giving it a ⭐ on GitHub.  
-Your support and feedback are highly appreciated!
+## 💡 Support This Project
+
+If this project added value or gave you useful insights, consider giving it a ⭐ on GitHub.  
+Your support encourages me to create more data-driven solutions.  
+Feedback is always welcome!
