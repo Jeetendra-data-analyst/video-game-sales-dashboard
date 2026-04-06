@@ -41,13 +41,15 @@ It provides insights into sales performance across different regions, genres, pl
 
 ---
 
-## 👤 Author
-**Jeetendra**
-
----
-
 ## ⭐ Support & Feedback
 
 If you found this project insightful, please consider giving it a ⭐ on GitHub.  
 Your support is greatly appreciated and helps me continue building impactful data analytics projects.  
 I welcome any feedback or suggestions for improvement.
+
+---
+
+## 👤 Author
+
+**Jeetendra**  
+Aspiring Data Analyst skilled in Power BI and data visualization, focused on turning data into meaningful insights and building real-world analytics projects.
