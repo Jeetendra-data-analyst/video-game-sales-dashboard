@@ -46,5 +46,5 @@ It provides insights into sales performance across different regions, genres, pl
 
 ---
 
-## ⭐ If you like this project
-Give it a star ⭐ on GitHub and share your feedback!
+If you found this project useful or insightful, please consider giving it a ⭐ on GitHub.  
+Your support and feedback are highly appreciated!
