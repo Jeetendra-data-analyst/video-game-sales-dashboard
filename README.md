@@ -1,8 +1,11 @@
 # 🎮 Video Game Sales Dashboard (Power BI)
 
 ## 📊 Project Overview
-This project presents an interactive Power BI dashboard analyzing global video game sales data.  
-It provides insights into sales performance across different regions, genres, platforms, and publishers.
+
+This project showcases an interactive Power BI dashboard developed to analyze global video game sales data.  
+It delivers meaningful insights into sales performance across regions, genres, platforms, and publishers, enabling better understanding of market trends and business dynamics.  
+
+The dashboard is designed to support data-driven decision-making through clear visualizations and intuitive user interaction.
 
 ---
 
